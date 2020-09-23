@@ -108,7 +108,7 @@ Your browser does not support the audio element.
 </audio> */}
         <footer>
         <Header />
-        Ⓐ Sebastian Ymai {new Date().getFullYear()}
+        fatherplantlament {new Date().getFullYear()}
         </footer>
       </div>
       <ShopBasket items={this.state.shopBasket} updateShopBasket={this.updateShopBasket}/>

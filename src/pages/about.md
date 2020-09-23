@@ -1,21 +1,21 @@
 ---
 title: About
 date: "2020-01-19T22:40:32.169Z"
-description: Born in Santiago, Chile
+description: A collection of artworks created in/around Glasgow in/around 2020
 ---
 
-#Sebastian Ymai
+#fatherplantlament
 
-Born in Santiago, Chile
-Spent the past 7 years in and out of the Glasgow School of Art until summer 2016
+A collection of artworks created in/around Glasgow in/around 2020
 
-Musical endeavours:
+Artists:
 
-anxietyglasgow.bandcamp.com
-caroubalo.bandcamp.com
-pennycress.bandcamp.com
-rowangrows.bandcamp.com
-flaccidflute.bandcamp.com
-flaccidfathers.bandcamp.com
+Car Ed</br>
+Sara </br>
+Jamie</br>
+Ruth</br>
+Nadia</br>
+Mariella</br>
+etc.</br>
 
-sebastian.y.r.varas@gmail.com
+curated by carolyn.e@hotmail.co.uk

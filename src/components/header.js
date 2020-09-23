@@ -40,7 +40,7 @@ const Header = () => {
         marginBottom:0,
         width: 'fit-content'
       }}>
-       Spent the past 7 years in and out of the Glasgow School of Art until summer 2016.
+       art EXHIBIT .
 &nbsp;<Link 
     style={{color:'blue',textDecorationColor: 'blue',}} 
     to='/about/'>Read more...</Link>&nbsp;</p>

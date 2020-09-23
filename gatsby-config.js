@@ -1,15 +1,15 @@
 module.exports = {
   pathPrefix: "",
   siteMetadata: {
-    title: `Sebastian Ymai`,
-    author: `Sebastian Ymai`,
-    description: `Spent the past 7 years in and out of the Glasgow School of Art until summer 2016`,
+    title: `Car Ed`,
+    author: `Car Ed`,
+    description: `Curated exhibition`,
     siteUrl: `https://seb.pampthehorn.com`,
     social: {
-      instagram: `guechulare`
+      instagram: `fatherplantlament`
     },
     contact: {
-      email: `sebastian.y.r.varas@gmail.com`
+      email: `carolyn.e@hotmail.co.uk`
     }
   },
   plugins: [
